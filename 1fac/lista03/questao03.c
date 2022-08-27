@@ -22,7 +22,7 @@ execução do programa terminada.
 #include <stdio.h>
 #include <ctype.h>
 
-#define PI 3.14159;
+#define PI 3.14159
 
 int main(){
 	
