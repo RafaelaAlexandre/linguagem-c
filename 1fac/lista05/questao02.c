@@ -1,4 +1,4 @@
-/*****************************************
+/******************************************
 				QUESTÃO 02: 
 Desenvolver um programa que calcule a soma 
 dos números de 1 a N, sendo N um número 
