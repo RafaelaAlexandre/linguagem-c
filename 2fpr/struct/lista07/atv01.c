@@ -21,5 +21,27 @@ possam ser necessárias. Além disso, implementar as seguintes funções:
 	iii. Retirar do estoque um determinado veículo,
 	dada a sua placa.
 */
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h>
 
+typedef struct{
+	int anoModelo;
+	int anoFabricacao;	
+}TAno;
+
+typedef struct{
+	char placa[30];
+	char modelo[30];
+	char marca[30];
+	char cor[30];
+	float quilometragem;
+	TAno ano;
+	float valor;
+	float tipo;
+}TConcessionaria;
+
+int main(){
+	
+}
 
