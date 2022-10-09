@@ -25,7 +25,6 @@ void exibirPG(int n, int a1, int q){
 			
 		}else{
 			printf(" %d ", a1);		
-			
 			exibirPG(n-1, a1*q,q);
 			
 		
