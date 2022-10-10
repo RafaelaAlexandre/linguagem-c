@@ -17,7 +17,6 @@ void multiplos(int n, int v){
 		if(v!=0){
 			if(v%n==0){
 			
-			
 			multiplos(n, v-1);
 			printf(" %d \n", v);
 			
